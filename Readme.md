@@ -12,4 +12,4 @@
 
 ### Tela de login
 
-<img src="./templates/static/login.png">
+<img src="./templates/static/login2.png">
