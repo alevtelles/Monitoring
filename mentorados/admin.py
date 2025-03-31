@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Mentorados, Navigator
+
+admin.site.register(Navigator)
+admin.site.register(Mentorados)
